@@ -29,6 +29,6 @@ at **Leibniz University Hannover**.
 - `report/` — presentation/report file
 
 ## Author
-Leeya Don Koithara
-Akash Pattiyil
-Sunanda Menon
+### Leeya Don Koithara
+### Akash Pattiyil
+### Sunanda Menon
