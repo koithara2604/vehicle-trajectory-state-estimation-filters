@@ -1,0 +1,10 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.mex*
+*.fig~
+*.slxc
+*.slx~
+*.pcode
+*.mdl.autosave
+*.matlab.metadata
